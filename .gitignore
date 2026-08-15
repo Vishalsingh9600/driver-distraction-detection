@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+yolov7.pt
+event_log.csv
+yolo11n.pt
